@@ -52,3 +52,5 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 - Placeholder images sourced from [Pinterest](https://pinterest.com).
 - MP3 music sourced from [SoundCloud](https://soundcloud.com).
 
+## Bugs
+-Progress Bar not working Properly
